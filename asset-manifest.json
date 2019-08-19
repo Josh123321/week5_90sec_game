@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Week5_90sec_game/static/css/main.498d002a.chunk.css",
+    "main.js": "/Week5_90sec_game/static/js/main.f9ef50aa.chunk.js",
+    "main.js.map": "/Week5_90sec_game/static/js/main.f9ef50aa.chunk.js.map",
+    "runtime~main.js": "/Week5_90sec_game/static/js/runtime~main.8fc46bb4.js",
+    "runtime~main.js.map": "/Week5_90sec_game/static/js/runtime~main.8fc46bb4.js.map",
+    "static/js/2.e8138f8d.chunk.js": "/Week5_90sec_game/static/js/2.e8138f8d.chunk.js",
+    "static/js/2.e8138f8d.chunk.js.map": "/Week5_90sec_game/static/js/2.e8138f8d.chunk.js.map",
+    "index.html": "/Week5_90sec_game/index.html",
+    "precache-manifest.9de1f5c0bd2e3a4b06b42d184374be5e.js": "/Week5_90sec_game/precache-manifest.9de1f5c0bd2e3a4b06b42d184374be5e.js",
+    "service-worker.js": "/Week5_90sec_game/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/Week5_90sec_game/static/css/main.498d002a.chunk.css.map"
+  }
+}
